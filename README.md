@@ -10,3 +10,4 @@ tempt
 tempt
 eat
 check
+love
